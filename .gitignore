@@ -1,0 +1,33 @@
+# === 파이썬 공통 ===
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 가상환경
+.env
+.venv
+env/
+venv/
+
+# 테스트 / 캐시
+.ipynb_checkpoints/
+.pytest_cache/
+.cache/
+
+# === 여기부터 Hyeongyu 프로젝트용 ===
+
+data/
+output/
+ckpt/
+
+models/pytorch_image_models
+models/timm
+models/torchvision
+
+# 큰 바이너리/데이터 파일들
+*.pt
+*.pth
+*.tar
+*.tar.gz
+*.zip
+
