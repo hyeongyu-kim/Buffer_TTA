@@ -1,6 +1,6 @@
 # Buffer layers for Test-Time Adaptation
 
-This is the official public repository for the **NeurIPS 2025** paper *Buffer Layers for Test-Time Adaptation*.
+This is the official public repository for the **NeurIPS 2025** paper *"Buffer Layers for Test-Time Adaptation"*.
 
 [arxiv link](https://arxiv.org/abs/2510.21271)
 
